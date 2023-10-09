@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+} */
+
+/* @layer base {
+  :root {
+    --primary-bg-color: #fff;
+    --secondary-bg-color: #00043c;
+    --cta: #FF9110;
+    --primary-text-color: #000;
+    --secondary-bg-color-2: #ebedf7;
+    --primary-cta-color: #00043c;
+  }
+} */
